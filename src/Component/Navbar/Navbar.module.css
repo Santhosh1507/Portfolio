@@ -1,0 +1,39 @@
+.navbar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+li{
+    padding: 10px;
+}
+
+.title {
+    align-items: flex-start;
+    font-size: 40px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.menu {
+    display: flex;
+}
+
+.menutitle{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+.menutitle a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.menutitle li:hover{
+    background-color: rgb(30, 149, 147);
+    border-radius: 20px;
+}

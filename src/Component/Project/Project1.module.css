@@ -4,7 +4,7 @@
     border-radius: 10px;
     background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
     box-shadow: 0 16px 14px 0 #04152d;
-    padding: 18px 24px;
+    padding: 18px 20px;
     max-width: 345px;
     padding-top: 60px;
   }
@@ -54,10 +54,40 @@
   
   .link {
     text-decoration: none;
-    color: var(--color-text);
+    color: white;
     font-size: 30px;
     font-weight: 600;
     border-radius: 100px;
     background: rgba(89, 156, 181, 0.477);
     padding: 1px 22px;
+  }
+
+  @media screen and (max-width: 400px){
+    .image {
+      margin-bottom: 20px;
+      width: 100%;
+    }
+    .container{
+      padding: 10px 15px;
+    }
+    .title {
+      font-size: 20px;
+    }
+    .description {
+      font-size: 15px;
+    }
+    .skills {
+      gap: 2px;
+    }
+    .skill {
+      font-size: 18px;
+      padding: 4px 10px;
+    }
+    .links {
+      margin-top: 16px;
+    }  
+    .link {
+      font-size: 20px;
+      padding: 1px 15px;
+    }
   }

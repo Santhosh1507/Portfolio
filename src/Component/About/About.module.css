@@ -73,6 +73,11 @@
 .aboutIteamImage{
     width: 10%;
 }
+@media screen and (max-width: 600px){
+    .aboutIteamImage{
+        display: none;
+    }
+}
 
 @media screen and (max-width: 920px){
     .aboutImage{

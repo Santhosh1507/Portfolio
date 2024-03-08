@@ -79,6 +79,23 @@
     }
 }
 
+@media screen and (max-width: 400px){
+    .container{
+        margin-left: 3%;
+        margin-right: 3%;
+        padding: 5px;
+    }
+    .title{
+        padding-top: 20px;
+    }
+    .aboutItem h3{
+        font-size: 5px;
+    }
+    .aboutItems{
+        gap: 10px;
+    }
+}
+
 @media screen and (max-width: 920px){
     .aboutImage{
         display: none;

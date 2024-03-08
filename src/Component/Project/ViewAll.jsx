@@ -8,7 +8,7 @@ export const ViewAll = () => {
   return (
     <div>
         <div className={Styles.viewall}>
-        <a  className={Styles.viewproject}>View All</a>
+        <button className={Styles.viewproject}>View All</button>
     </div>
 </div>
   )

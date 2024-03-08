@@ -3,18 +3,19 @@
     text-align: center;
   }
 
-  .viewall a{
+  .viewall button{
      font-size: 25px;
      font-weight: 700;
      text-decoration: none;
      color: white;
      padding: 10px 30px;
+     border: 1px solid rgba(0, 0, 0, 0.297);
      border-radius: 50px;
      background-color: rgba(43, 53, 145, 0.677);
-     box-shadow: 5px 4px 10px 10px #101010a3;
+     box-shadow: 15px 4px 10px 10px #101010a3;
   }
 
-  .viewall a:hover{
+  .viewall button:hover{
     background-color: rgb(43, 53, 145, 0.3);
     color: rgba(255, 255, 255, 0.721);
   }

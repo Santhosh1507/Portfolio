@@ -20,13 +20,14 @@
     font-size: 40px;
     font-weight: 900;
     margin-bottom: 44px;
+    color: white;
     font-family: sans-serif;
-    background: linear-gradient(40deg, 
-    rgb(248, 254, 249) 30%,
+    background: linear-gradient(90deg, 
+    rgb(248, 254, 249) 70%,
     rgba(225, 32, 32, 0.87) 120%
     );
     -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text;
+    background-clip: text;
 }
 .description{
     font-size: 30px;
@@ -46,10 +47,11 @@
 }
 
 .profileimage{
-    width: 50%;
+    width: 40%;
     z-index: 1;
-    border-radius: 500px 500px 500px 500px;
-    margin-bottom: 50px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    box-shadow: -10px 10px 70px 10px;
 }
 
 .contactBtn:hover{
@@ -58,28 +60,38 @@
 
 .topBlur{
     position: absolute;
-    width: 80vh;
-    height: 60vh;
-    min-width: 400px;
-    min-height: 400px;
-    background: rgb(25, 55, 109, 0.6);
+    width: 20vh;
+    height: 20vh;
+    min-width: 100%;
+    min-height: 100%;
     border: 800px;
-    top: -128px;
-    left: 10vh;
-    filter: blur(100px);
-    z-index: 0;
+    filter: blur(900px);
+    z-index: -1;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
 }
 
-.bottomBlur{
-    position: absolute;
-    width: 80vh;
-    height: 60vh;
-    min-width: 400px;
-    min-height: 400px;
-    background: rgb(25, 55, 109, 0.6);
-    border: 800px;
-    bottom: -128px;
-    right: 10vh;
-    filter: blur(100px);
-    z-index: 0;
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+@media screen and (max-width: 920px){
+    .container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .content{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }

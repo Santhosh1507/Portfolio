@@ -1,6 +1,6 @@
 import React from 'react'
 import Styles from './Hero.module.css'
-import  Img1 from '../../../Images/Profile.png'
+import { getImageUrl } from "../../Images";
 
 function Hero() {
   return (
@@ -13,9 +13,8 @@ function Hero() {
             </p>
             <a href="mailto:firefriends15072002@gmail.com" className={Styles.contactBtn}>Contact Me</a>
         </div>
-        <img src={Img1} alt="Hero Image Profile" className={Styles.profileimage}/>
+        <img src={getImageUrl("Profile.png")} alt="Hero Image Profile" className={Styles.profileimage}/>
         <div className={Styles.topBlur}></div>
-        <div className={Styles.bottomBlur}></div>
     </section>
   )
 }

@@ -15,11 +15,13 @@
 .skillitems{
     display: flex;
     flex-direction: column;
-    background-color: rgba(0, 0, 0, 0.103);
+    background-color: rgba(0, 0, 0, 0.3);
     margin: 0% 20%;
     color: white;
     padding: 50px;
-
+    border-radius: 20px;
+    box-shadow: 15px 10px 20px 0px rgba(0, 0, 0, 0.47);
+    border: 1px solid rgba(0, 0, 0, 0.216);
 }
 .itemtitle{
     font-size: 25px;
@@ -110,6 +112,7 @@
 @media screen and (max-width: 400px) {
     .skillitems{
         margin: 0% 3%;
+        padding: 30px;
     }
     .itemtitle{
         font-size: 15px;

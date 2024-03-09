@@ -5,6 +5,7 @@ import './App.css'
 import Project from './Component/Project/Project'
 import Contact from './Component/Contact/Contact'
 import Footer from './Component/footer/Footer'
+import Skills from './Component/Skills/Skills'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Hero />
       <About />
       <Project />
+      <Skills />
       <Contact />
       <Footer />
 	  </div>

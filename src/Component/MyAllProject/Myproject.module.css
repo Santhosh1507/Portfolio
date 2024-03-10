@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contant{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 10%;
+    align-items: center;
+    
+}
+
+.backcontent{
+    background-color: rgb(8, 58, 101);
+    margin-top: 50px;
+    padding: 20px 30px;
+    border-radius: 50px;
+}
+.gobacklink{
+    text-decoration: none;
+    color: white;
+}
+
+.title{
+    color: white;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+}
+@media screen and (max-width: 400px){
+    .contant{
+        flex-direction: column;
+        margin: 0px 2%;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .contant{
+        flex-direction: column;
+        margin: 0px 2%;
+    }
+}
+

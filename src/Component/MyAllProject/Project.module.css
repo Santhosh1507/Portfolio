@@ -1,0 +1,30 @@
+.container {
+    margin-top: 76px;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .projects {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 25px;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 800px){
+    .container {
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+    .projects {
+      align-items: center;
+      gap: 15px;
+      width: 100%;
+    }
+  }
+  
+  

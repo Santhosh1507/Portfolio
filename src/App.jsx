@@ -1,23 +1,17 @@
-import About from './Component/About/About'
-import Hero from './Component/Hero/Hero'
-import Navbar from './Component/Navbar/Navbar'
+import React from 'react'
 import './App.css'
-import Project from './Component/Project/Project'
-import Contact from './Component/Contact/Contact'
-import Footer from './Component/footer/Footer'
-import Skills from './Component/Skills/Skills'
+import Allpage from './Allpage'
+import { Routes, Route} from 'react-router-dom'
+import Myproject from './Component/MyAllProject/Myproject'
 
 function App() {
 
   return (
     <div className='App'>
-      <Navbar />
-      <Hero />
-      <About />
-      <Project />
-      <Skills />
-      <Contact />
-      <Footer />
+      <Routes>
+          <Route path='/' element={<Allpage />} />
+          <Route path='/myproject' element={<Myproject />} />
+      </Routes>
 	  </div>
   )
 

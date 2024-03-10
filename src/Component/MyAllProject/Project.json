@@ -12,31 +12,31 @@
       "imageSrc": "Project/frontend.png",
       "description": "We are team of talented designers making websites with Bootstrap.",
       "skills": ["Html", "Css", "Bootstrap"],
-      "demo": "https://github.com/WEB-DESIGN-2002/frontend_project-1.git",
-      "source": "https://web-design-2002.github.io/frontend_project-1/"
+      "demo": "https://web-design-2002.github.io/frontend_project-1/",
+      "source": "https://github.com/WEB-DESIGN-2002/frontend_project-1.git"
     },
     {
       "title": "Sample project",
       "imageSrc": "Project/simpleproject.png",
       "description": "This is a project made to craete web page building an app.",
       "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://github.com/WEB-DESIGN-2002/web-design-profile.git",
-      "source": "https://web-design-2002.github.io/web-design-profile/"
+      "demo": "https://web-design-2002.github.io/web-design-profile/",
+      "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
     },
     {
       "title": "Sample project",
       "imageSrc": "Project/simpleproject.png",
       "description": "This is a project made to craete web page building an app.",
       "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://github.com/WEB-DESIGN-2002/web-design-profile.git",
-      "source": "https://web-design-2002.github.io/web-design-profile/"
+      "demo": "https://web-design-2002.github.io/web-design-profile/",
+      "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
     },
     {
       "title": "Sample project",
       "imageSrc": "Project/simpleproject.png",
       "description": "This is a project made to craete web page building an app.",
       "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://github.com/WEB-DESIGN-2002/web-design-profile.git",
-      "source": "https://web-design-2002.github.io/web-design-profile/"
+      "demo": "https://web-design-2002.github.io/web-design-profile/",
+      "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
     }
   ]

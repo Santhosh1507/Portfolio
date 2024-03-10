@@ -5,7 +5,7 @@ import Styles from './Project.module.css'
 
 function Project() {
   return (
-     <section className={Styles.container}>
+     <section className={Styles.container}  id='project'>
       <div className={Styles.projects}>
         {
           project.map((Project, id) => {

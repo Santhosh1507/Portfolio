@@ -4,16 +4,15 @@
     border-radius: 10px;
     background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
     box-shadow: 0 16px 14px 0 #04152d;
-    padding: 20px 20px;
-    max-width: 245px;
-    padding-top: 60px;
+    padding: 12px 10px;
+    max-width: 300px;
+    padding-top: 30px;
   }
 
 
   
   .image {
-    margin-bottom: 26px;
-  
+    margin-bottom: 16px;
   }
 
   
@@ -24,7 +23,7 @@
   
   .description {
     margin-top: 6px;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
   }
   
@@ -34,21 +33,21 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 4px;
     list-style: none;
   }
   
   .skill {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
     border-radius: 100px;
     background: rgb(13, 12, 12);
-    padding: 2px 22px;
+    padding: 3px 20px;
   }
   
   .links {
     width: 100%;
-    margin-top: 26px;
+    margin-top: 16px;
     display: flex;
     justify-content: space-around;
   }
@@ -60,7 +59,7 @@
     font-weight: 600;
     border-radius: 100px;
     background: rgba(89, 156, 181, 0.477);
-    padding: 1px 12px;
+    padding: 1px 20px;
   }
 
   @media screen and (max-width: 400px){
@@ -91,8 +90,4 @@
       font-size: 20px;
       padding: 1px 15px;
     }
-  }
-
-  @media screen and (max-width: 800px){
-
   }

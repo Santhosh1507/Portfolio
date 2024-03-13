@@ -24,19 +24,11 @@
       "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
     },
     {
-      "title": "Sample project",
-      "imageSrc": "Project/simpleproject.png",
-      "description": "This is a project made to craete web page building an app.",
+      "title": "Sample shop-card",
+      "imageSrc": "Project/shop-card.png",
+      "description": "This is a project made to craete web page shop-card.",
       "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://web-design-2002.github.io/web-design-profile/",
-      "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
-    },
-    {
-      "title": "Sample project",
-      "imageSrc": "Project/simpleproject.png",
-      "description": "This is a project made to craete web page building an app.",
-      "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://web-design-2002.github.io/web-design-profile/",
-      "source": "https://github.com/WEB-DESIGN-2002/web-design-profile.git"
+      "demo": "https://shop-card-web.netlify.app/",
+      "source": "https://github.com/webdesign1507/Shop-card.git"
     }
   ]

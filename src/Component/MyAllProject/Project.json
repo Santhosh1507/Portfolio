@@ -30,5 +30,13 @@
       "skills": ["Html", "Css", "Javascript"],
       "demo": "https://shop-card-web.netlify.app/",
       "source": "https://github.com/webdesign1507/Shop-card.git"
+    },
+    {
+      "title": "expanding-cardes",
+      "imageSrc": "Project/expanding-card.png",
+      "description": "This is a project made to craete sample page building an app.",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://expanding-cards-web7.netlify.app/",
+      "source": "https://github.com/webdesign1507/Expanding-Cards.git"
     }
   ]

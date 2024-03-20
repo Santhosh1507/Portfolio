@@ -11,9 +11,13 @@ function Hero() {
                 I'm a full-stack developer wielding the Web-develop like a seasoned architect.
                 I enjoy building sites & apps. My focus is React (Node.js).
             </p>
+            {/* <div className={Styles.btnitem}>
             <a href="mailto:firefriends15072002@gmail.com" className={Styles.contactBtn}>Contact Me</a>
+            <a href="mailto:firefriends15072002@gmail.com" className={Styles.contactBtn}>Download CV <MdOutlineFileDownload /></a>
+            <a href="" className={Styles.contactBtn}><FaLinkedin /></a>
+            </div> */}
         </div>
-        <img src={getImageUrl("Profile.png")} alt="Hero Image Profile" className={Styles.profileimage}/>
+        <img src={getImageUrl("Profile4.png")} alt="Hero Image Profile" className={Styles.profileimage}/>
         <div className={Styles.topBlur}></div>
     </section>
   )

@@ -8,7 +8,7 @@ function Footer() {
       {/* <div className={Styles.titleitem}>
       <p className={Styles.title}>&copy;2024 Webflow</p>
       </div> */}
-      <p className={Styles.title}>&copy;2024 Webflow</p>
+      <p className={Styles.title}>&copy;2024 Santhosh</p>
           <div className={Styles.imageItem}>
            <img src={getImageUrl("Icons/facebook.png")} alt="" className={Styles.images}/>
            <img src={getImageUrl("Icons/instagram.png")} alt="" className={Styles.images}/>

@@ -1,26 +1,26 @@
 [
-    {
-      "title": "Calculator",
-      "imageSrc": "Project/Calculator.png",
-      "description": "Create a calculator app for basic arithmetic operations in React.",
-      "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://calculater-project-web.netlify.app",
-      "source": "https://github.com/Santhosh1507/calculater.git"
-    },
-    {
-      "title": "Sample frontend project",
-      "imageSrc": "Project/frontend.png",
-      "description": "We are team of talented designers making websites with Bootstrap.",
-      "skills": ["Html", "Css", "Bootstrap"],
-      "demo": "https://frontend-project-web.netlify.app/",
-      "source": "https://github.com/Santhosh1507/frontend-project.git"
-    },
-    {
-      "title": "Sample project",
-      "imageSrc": "Project/simpleproject.png",
-      "description": "This is a project made to craete web page building an app.",
-      "skills": ["Html", "Css", "Javascript"],
-      "demo": "https://simple-portfolio-web7.netlify.app/",
-      "source": "https://github.com/Santhosh1507/simple-portfolio.git"
-    }
+  {
+    "title": "Sample shop-card",
+    "imageSrc": "Project/shop-card.png",
+    "description": "This is a project made to craete web page shop-card.",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://shop-card-web.netlify.app/",
+    "source": "https://github.com/webdesign1507/Shop-card.git"
+  },
+  {
+    "title": "expanding-cardes",
+    "imageSrc": "Project/expanding-card.png",
+    "description": "This is a project made to craete sample page building an app.",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://expanding-cards-web7.netlify.app/",
+    "source": "https://github.com/webdesign1507/Expanding-Cards.git"
+  },
+  {
+    "title": "Calculator",
+    "imageSrc": "Project/Calculator.png",
+    "description": "Create a calculator app for basic arithmetic operations in React.",
+    "skills": ["Html", "Css", "Javascript"],
+    "demo": "https://calculater-project-web.netlify.app",
+    "source": "https://github.com/Santhosh1507/calculater.git"
+  }
   ]

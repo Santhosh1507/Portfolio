@@ -38,5 +38,13 @@
       "skills": ["Html", "Css", "Javascript"],
       "demo": "https://simple-portfolio-web7.netlify.app/",
       "source": "https://github.com/Santhosh1507/simple-portfolio.git"
+    },
+    {
+      "title": "Text To Speech voice",
+      "imageSrc": "Project/texttospeech.png",
+      "description": "This is a project made to craete web page building an app.",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://text-to-speech-generator-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/Text-To-Speech-Generator.git"
     }
   ]

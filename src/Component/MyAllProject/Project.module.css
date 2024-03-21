@@ -20,6 +20,7 @@
   @media screen and (max-width: 800px){
     .container{
       margin: 0px 0px;
+      margin-bottom: 20px;
     }
     .projects{
       justify-content: center;

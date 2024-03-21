@@ -9,12 +9,12 @@ export const ProjectCard = ({
     <div className={Styles.container}>
          <img src={getImageUrl(imageSrc)} alt={title} className={Styles.image} />
          <h3 className={Styles.title}>{title}</h3>
-         {/* <p className={Styles.description}>{description}</p>
+         {/* <p className={Styles.description}>{description}</p> */}
          <ul className={Styles.skills}>
          {skills.map((skill, id) => {
          return <li key={id} className={Styles.skill}>{skill}</li>;
          })}
-         </ul> */}
+         </ul>
          <div className={Styles.links}>
          <a href={demo} className={Styles.link}>Demo</a>
          </div>                               

@@ -1,13 +1,14 @@
 import React from 'react'
 import Styles from './About.module.css'
-import { getImageUrl } from "../../Images";
+// import { getImageUrl } from "../../Images";
+import { BsDot } from "react-icons/bs";
 
 function About() {
-  return (
-    <div className={Styles.container} id='about'>
-        <h2 className={Styles.title}>About Me</h2>
-        <div className={Styles.content}>
-            <img src={getImageUrl("About/About4.png")} alt="Me Sitting with a Laptop" className={Styles.aboutImage}/>
+    return (
+        <div className={Styles.container} id='about'>
+            <h2 className={Styles.title}>About Me</h2>
+            <div className={Styles.content}>
+                {/* <img src={getImageUrl("About/About4.png")} alt="Me Sitting with a Laptop" className={Styles.aboutImage}/>
             <ul className={Styles.aboutItems}>
                 <li className={Styles.aboutItem}>
                     <img src={getImageUrl("About/Frontimg.png")} alt="" className={Styles.aboutIteamImage}/>
@@ -39,10 +40,23 @@ function About() {
                         </p>
                     </div>
                 </li>
-            </ul>
+            </ul> */}
+                <p className={Styles.texttitle}><BsDot />Recent Graduated from Meenakshi College with a B.E in Computer
+                    Science and Engineering, achieving a total grade point average of
+                    7.4%. My academic journey has equipped me with a solid
+                    foundation and a drive to harness technology in addressing realworld challenges.
+                </p><br />
+                <p className={Styles.texttitle}><BsDot />To obtain a challenging career in the IT industry and put all my
+                    efforts into the growth of the organization and have a great
+                    working environment.
+                </p><br />
+                <p className={Styles.texttitle}><BsDot />An enthusiastic, punctual & carer minded individual with excellent
+                    communication and interpersonal skills.
+                </p>
+            </div>
+
         </div>
-    </div>
-  )
+    )
 }
 
 export default About

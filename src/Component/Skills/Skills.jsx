@@ -30,10 +30,10 @@ function Skills() {
             }
           </ul>
         </div>
-        <div className={Styles.containerBtn}>
+        {/* <div className={Styles.containerBtn}>
             <a href="resume.docx" download className={Styles.contactBtn}>Download CV <MdOutlineFileDownload /></a>
             <a href="https://github.com/Santhosh1507" className={Styles.contacticon}><FaGithubSquare /></a>
-        </div>
+        </div> */}
     </section>
   )
 }

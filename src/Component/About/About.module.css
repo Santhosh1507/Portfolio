@@ -30,9 +30,18 @@
 }
 
 .content{
-    display: flex;
-    flex-direction: row;
+    margin: 10px 50px;
+    
     align-items: center;
+   
+}
+
+.texttitle{
+    font-weight: 200;
+    font-size: 30px;
+    color: white;
+    text-align: left;
+
 }
 
 .aboutImage{

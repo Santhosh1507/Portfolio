@@ -96,6 +96,12 @@
     .aboutIteamImage{
         display: none;
     }
+    .content{
+        margin: 10px 10px;   
+    }
+    .texttitle{
+        font-size: 20px;
+    }
 }
 
 @media screen and (max-width: 400px){
@@ -113,6 +119,12 @@
     .aboutItems{
         gap: 10px;
     }
+    .content{
+        margin: 10px 10px;   
+    }
+    .texttitle{
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width: 920px){
@@ -125,5 +137,12 @@
     .aboutItem h3{
         font-size: 20px;
         font-weight: 600;
+    }
+    .content{
+        margin: 10px 15px;
+        
+    }
+    .texttitle{
+        font-size: 25px;
     }
 }

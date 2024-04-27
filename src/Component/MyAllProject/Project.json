@@ -5,7 +5,7 @@
     "description": "This is a project made to craete web page shop-card.",
     "skills": ["Html", "Css", "Javascript"],
     "demo": "https://shop-card-web.netlify.app/",
-    "source": "https://github.com/webdesign1507/Shop-card.git"
+    "source": "https://github.com/Santhosh1507/Shop-card.git"
   },
   {
     "title": "expanding-cardes",
@@ -13,7 +13,7 @@
     "description": "This is a project made to craete sample page building an app.",
     "skills": ["Html", "Css", "Javascript"],
     "demo": "https://expanding-cards-web7.netlify.app/",
-    "source": "https://github.com/webdesign1507/Expanding-Cards.git"
+    "source": "https://github.com/Santhosh1507/Expanding-Cards.git"
   },  
   {
       "title": "Calculator",
@@ -46,5 +46,69 @@
       "skills": ["Html", "Css", "Javascript"],
       "demo": "https://text-to-speech-generator-web.netlify.app/",
       "source": "https://github.com/Santhosh1507/Text-To-Speech-Generator.git"
+    },
+    {
+      "title": "E-commerce web Application",
+      "imageSrc": "Project/E-commerce.png",
+      "description": "Username : mce , Password : mce2024",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://shoping-ecommerce-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/E-commerce.git"
+    },
+    {
+      "title": "Hotstar web Application",
+      "imageSrc": "Project/Hotstar.png",
+      "description": "Username : mce , Password : mce2024",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://hotstar-clone-app-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/Hotstar-clone-app.git"
+    },
+    {
+      "title": "Digital Resume web",
+      "imageSrc": "Project/Digitalresume.png",
+      "description": "this application is using python and Streamlit",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://santhosh1507-resume-web.streamlit.app/",
+      "source": "https://github.com/Santhosh1507/my-Resume.git"
+    },
+    {
+      "title": "New web project",
+      "imageSrc": "Project/webproject.png",
+      "description": "this application is using new web project",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://new-web-project.netlify.app/",
+      "source": "https://github.com/Santhosh1507/new-web-project.git"
+    },
+    {
+      "title": "Password Generator",
+      "imageSrc": "Project/Passwordgenerator.png",
+      "description": "this application is using Password different generator",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://password-generator-web3.netlify.app/",
+      "source": "https://github.com/Santhosh1507/Password-Generator.git"
+    },
+    {
+      "title": "Image Editor",
+      "imageSrc": "Project/imageeditor.png",
+      "description": "this application is using image can be edite",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://image-editer-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/image-editer.git"
+    },
+    {
+      "title": "Guess Number",
+      "imageSrc": "Project/guessnumber.png",
+      "description": "this application is using mind read guess number",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://mind-read-guess-number-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/mind-read-guess-number.git"
+    },
+    {
+      "title": "Multi Step Login Form",
+      "imageSrc": "Project/multilogin.png",
+      "description": "this application is using multi step login form",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://multi-step-login-form-web.netlify.app/",
+      "source": "https://github.com/Santhosh1507/Multi-step-login-form.git"
     }
   ]

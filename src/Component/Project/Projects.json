@@ -1,26 +1,26 @@
 [
   {
-    "title": "Sample shop-card",
-    "imageSrc": "Project/shop-card.png",
-    "description": "This is a project made to craete web page shop-card.",
+    "title": "E-commerce web Application",
+    "imageSrc": "Project/E-commerce.png",
+    "description": "Username : mce , Password : mce2024",
     "skills": ["Html", "Css", "Javascript"],
-    "demo": "https://shop-card-web.netlify.app/",
-    "source": "https://github.com/webdesign1507/Shop-card.git"
+    "demo": "https://shoping-ecommerce-web.netlify.app/",
+    "source": "https://github.com/Santhosh1507/E-commerce.git"
   },
   {
-    "title": "expanding-cardes",
-    "imageSrc": "Project/expanding-card.png",
-    "description": "This is a project made to craete sample page building an app.",
+    "title": "Hotstar+Disney web Application",
+    "imageSrc": "Project/Hotstar.png",
+    "description": "Username : mce , Password : mce2024",
     "skills": ["Html", "Css", "Javascript"],
-    "demo": "https://expanding-cards-web7.netlify.app/",
-    "source": "https://github.com/webdesign1507/Expanding-Cards.git"
+    "demo": "https://hotstar-clone-app-web.netlify.app/",
+    "source": "https://github.com/Santhosh1507/Hotstar-clone-app.git"
   },
   {
-    "title": "Calculator",
-    "imageSrc": "Project/Calculator.png",
-    "description": "Create a calculator app for basic arithmetic operations in React.",
+    "title": "Digital Resume web Application",
+    "imageSrc": "Project/Digitalresume.png",
+    "description": "this application is using python and Streamlit",
     "skills": ["Html", "Css", "Javascript"],
-    "demo": "https://calculater-project-web.netlify.app",
-    "source": "https://github.com/Santhosh1507/calculater.git"
+    "demo": "https://santhosh1507-resume-web.streamlit.app/",
+    "source": "https://github.com/Santhosh1507/my-Resume.git"
   }
   ]

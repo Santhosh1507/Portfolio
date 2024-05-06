@@ -21,13 +21,6 @@ Install my-project with npm
 ## Project Screenshots:
 ![alt text](<images/Screenshot 2024-05-06 195555.png>)
 
-![alt text](<images/Screenshot 2024-05-06 195600.png>)
-
-![alt text](<images/Screenshot 2024-05-06 195607.png>)
-
-![alt text](<images/Screenshot 2024-05-06 195618.png>)
-
-![alt text](<images/Screenshot 2024-05-06 195623.png>)
 
 ### 🔗 Demo
 

@@ -41,7 +41,7 @@ function About() {
                     </div>
                 </li>
             </ul> */}
-                <p className={Styles.texttitle}><BsDot />Recent Graduated from Meenakshi College with a B.E in Computer
+                <p className={Styles.texttitle}><BsDot />I'm Graduated from Meenakshi College with a B.E in Computer
                     Science and Engineering, achieving a total grade point average of
                     7.4%. My academic journey has equipped me with a solid
                     foundation and a drive to harness technology in addressing realworld challenges.

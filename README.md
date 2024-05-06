@@ -2,10 +2,6 @@
 
 I'm craete My Portfolio
 
-### 🔗 Demo
-
-url: https://santhosh-portfolio-web.netlify.app/
-
 ## 🛠 Installation
 
 Install my-project with npm
@@ -32,4 +28,9 @@ Install my-project with npm
 ![alt text](<images/Screenshot 2024-05-06 195618.png>)
 
 ![alt text](<images/Screenshot 2024-05-06 195623.png>)
+
+### 🔗 Demo
+
+url: https://santhosh-portfolio-web.netlify.app/
+
 

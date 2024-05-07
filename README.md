@@ -19,6 +19,7 @@ Install my-project with npm
   npm run dev
 ```
 ## Project Screenshots:
+![alt text](<Images/Screenshot 2024-05-06 195555.png>)
 
 ![alt text](<Images/Screenshot 2024-05-06 195600.png>)
 

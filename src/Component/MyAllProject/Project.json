@@ -110,5 +110,13 @@
       "skills": ["Html", "Css", "Javascript"],
       "demo": "https://multi-step-login-form-web.netlify.app/",
       "source": "https://github.com/Santhosh1507/Multi-step-login-form.git"
+    },
+    {
+      "title": "Food Hotel",
+      "imageSrc": "Project/food-hotel.png",
+      "description": "this application is using Food Hotel order",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://food-hotel-sameer.netlify.app/",
+      "source": "https://github.com/Santhosh1507/food-hotel.git"
     }
   ]

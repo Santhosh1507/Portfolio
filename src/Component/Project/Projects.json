@@ -16,11 +16,11 @@
     "source": "https://github.com/Santhosh1507/Hotstar-clone-app.git"
   },
   {
-    "title": "Digital Resume web Application",
-    "imageSrc": "Project/Digitalresume.png",
-    "description": "this application is using python and Streamlit",
+    "title": "Food Hotel",
+    "imageSrc": "Project/food-hotel.png",
+    "description": "this application is using Food Hotel order. there are difference food",
     "skills": ["Html", "Css", "Javascript"],
-    "demo": "https://santhosh1507-resume-web.streamlit.app/",
-    "source": "https://github.com/Santhosh1507/my-Resume.git"
+    "demo": "https://food-hotel-sameer.netlify.app/",
+    "source": "https://github.com/Santhosh1507/food-hotel.git"
   }
   ]

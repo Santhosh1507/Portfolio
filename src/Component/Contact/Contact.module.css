@@ -45,9 +45,10 @@
 .inputitem1{
     width: 100%;
     height: 100px;
+    padding: 12px;
 }
 
-input[type=submit] {
+button[type=submit] {
     background-color: #04AA6D;
     color: white;
     padding:  15px 40px;
@@ -56,7 +57,7 @@ input[type=submit] {
     margin-top: 20px;
   }
   
- input[type=submit]:hover {
+ button[type=submit]:hover {
     background-color: #45a049;
   }
 

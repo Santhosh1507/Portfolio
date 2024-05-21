@@ -47,9 +47,14 @@
     height: 100px;
     padding: 12px;
 }
+.itemsbutton{
+    display: flex;
+    flex-direction: column;
+}
 
 button[type=submit] {
     background-color: #04AA6D;
+    max-width: 150px;
     color: white;
     padding:  15px 40px;
     border: none;
@@ -60,6 +65,12 @@ button[type=submit] {
  button[type=submit]:hover {
     background-color: #45a049;
   }
+
+span{
+    color: rgb(255, 30, 30);
+    font-size: 15px;
+    font-weight: 600;
+}
 
   @media screen and (max-width: 920px) {
     .imageitem, .titleitem {
@@ -74,7 +85,7 @@ button[type=submit] {
     .inputitem, .inputitem1{
         width: 80%;
     }
-    input[type=submit]{
+    button[type=submit]{
         width: 50%;
     }
   }

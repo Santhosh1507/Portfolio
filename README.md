@@ -35,7 +35,7 @@ Install my-project with npm
 
 ![alt text](<Images/Screenshot 2024-05-21 090940.png>)
 
-![alt text](<Images/Screenshot 2024-05-21 090948.png>)
+![alt text](<Images/Screenshot 2024-05-21 100447.png>)
 
 ![alt text](<Images/Screenshot 2024-05-21 091001.png>)
 

@@ -88,4 +88,9 @@ span{
     button[type=submit]{
         width: 50%;
     }
+    .itemsbutton{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
   }

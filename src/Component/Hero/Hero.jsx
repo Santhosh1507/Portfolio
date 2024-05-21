@@ -17,7 +17,7 @@ function Hero() {
             <a href="" className={Styles.contactBtn}><FaLinkedin /></a>
             </div> */}
         </div>
-        <img src={getImageUrl("Profile4.png")} alt="Hero Image Profile" className={Styles.profileimage}/>
+        <img src={getImageUrl("Profile6.png")} alt="Hero Image Profile" className={Styles.profileimage}/>
         <div className={Styles.topBlur}></div>
     </section>
   )

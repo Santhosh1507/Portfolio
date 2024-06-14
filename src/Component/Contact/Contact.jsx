@@ -38,7 +38,6 @@ function Contact() {
         <div className={Styles.titleitem}>
           <h5>Message me</h5>
           <form onSubmit={onSubmit} >
-            <input type="hidden" name="access_key" value="8110fe57-bde9-4d6a-aaba-5375a3e9608d" />
             <input type="text" placeholder='Name' name="name" required className={Styles.inputitem} />
             <input type="text" placeholder='Email' name="email" required className={Styles.inputitem} />
             <input type="tel" placeholder='Phone number' name="phone" required className={Styles.inputitem} />
